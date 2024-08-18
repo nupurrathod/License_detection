@@ -1,1 +1,1 @@
-This project implements a robust license plate recognition system utilizing OpenCV for precise license plate detection and a Keras-based Convolutional Neural Network (CNN) for character classification. The system efficiently segments and identifies license plates from vehicle images, accurately recognizing and classifying characters into 36 distinct classes. This tool enhances the capability to analyze and utilize vehicle plate data effectively, making it suitable for applications like automated traffic monitoring, security, and data management.
+
