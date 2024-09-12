@@ -16,7 +16,7 @@ This project uses machine learning and computer vision techniques to detect and 
 
 ## Visual Overview
 
-
+![License Plate Recognition]
 ## Usage
 
 ## Contributing
