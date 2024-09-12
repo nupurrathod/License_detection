@@ -16,8 +16,10 @@ This project uses machine learning and computer vision techniques to detect and 
 
 ## Visual Overview
 
-![License Plate Recognition]
-## Usage
+## Visual Overview
+
+![License Plate Recognition](https://github.com/nupurrathod/License_detection/blob/main/test2.jpeg)
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
